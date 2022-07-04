@@ -3,10 +3,11 @@
 I'm Serdar from Turkey, and I am working on Web and Game Development. I really enjoy learning languages and frameworks like C# and Javascript as well as work in React. 
 
 ##Skills 
+* 💻 HTML, CSS, JS , C#
+* 🎮 Unity
+* 📚 Jquery, Bootsrap
 
 
-
-Skills: UNITY / REACT / JS  /C# / HTML / CSS / JQUERY / SQL
 
 - 🔭 I’m currently working on Unity Game Development. 
 - 🌱 I’m currently learning Hyper-Casual Game development with C# in Unity. 
