@@ -1,6 +1,4 @@
-![reallygreatsite com](https://user-images.githubusercontent.com/85623664/177106399-8962e97a-155e-439e-8a47-b2eadc4f4f7e.jpg)
-
-
+![reallygreatsite com (1)](https://user-images.githubusercontent.com/85623664/177107227-54a135ba-8a0e-4282-a0d1-f6f1496a403a.png)
 
 I'm Serdar from Turkey, and I am working on Web and Game Development. I really enjoy learning languages and frameworks like C# and Javascript as well as work in React. 
 
