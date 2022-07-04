@@ -2,7 +2,7 @@
 
 # Serdar Turan
 I'm Serdar from Turkey, and I am working on Web and Game Development. I really enjoy learning languages and frameworks like C# and Javascript as well as work in React. 
-
+📍 Currently base at: Ankara, Turkey
 ## Skills 
 * 💻 HTML, CSS, JS , C#
 * 🎮 Unity
