@@ -1,6 +1,7 @@
-### Hi there 👋, my name is Serdar
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](<a href="https://resimlink.com/9BJZ2QO4W_m" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/9BJZ2QO4W_m.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>)
+
+![reallygreatsite com](https://user-images.githubusercontent.com/85623664/177106083-98f95677-30f8-4a22-ae1b-da4fa266a0ea.png)
+
+
 
 I'm Serdar from Turkey, and I am working on Web and Game Development. I really enjoy learning languages and frameworks like C# and Javascript as well as work in React. 
 
