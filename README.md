@@ -19,7 +19,10 @@ I'm Serdar from Turkey, and I am working on Web and Game Development. I really e
 ##
 [![(https://github.com/turanserdar)](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/turanserdar) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/turannserdar/) 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
+<a href="https://www.linkedin.com/in/turan-serdar/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
 
 ##
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=turanserdar&show_icons=true&theme=gradient) 
