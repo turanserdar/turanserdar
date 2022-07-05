@@ -5,10 +5,6 @@ I'm Serdar from Turkey, and I am working on Web and Game Development. I really e
 
 📍 Currently base at: Ankara, Turkey
 
-Visitors
-
-![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
-
 ## Skills 
 * 💻 HTML, CSS, JS , C#
 * 🎮 Unity
